@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century gothic;
+}
+
+header{
+    background-image: url(../bg2.jpg);
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+    
+}
+#demo{
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    width: 700px;
+    height: 375px;
+    border-radius: 28px;
+    transform: translate(-50%,-50%)
+}
+
+.container{
+    border-radius: 50%;
+    
+    
+    
+    
+}
+.container img{
+    height: 270px;
+    width: 270px;
+    border-radius: 50%;
+}
+.table boxes{
+    height: 50px;
+    width: 200px;
+}
+.wallpaper{
+    position: absoulte;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    animation: animate 16s ease-in-out infinite;
+}
+.icons{
+    position: relative;
+    width: 100%;
+    height: 50vh;
+    background: url(../sae2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.counter-item h2 {
+    font-family: "Source Sans Pro", sans-serif;
+    color: #D7DADB;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 1px;
+}
+.counter-item p {
+    font-family: century gothic;
+    color: #D7DADB;
+    font-weight: 200;
+    
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    
+}
+
+
+.counter-overlay {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: rgba(0, 0, 0, .4);
+}
+.counter-item1 h2 {
+    font-family: "Source Sans Pro", sans-serif;
+    color: #D7DADB;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 1px;
+}
+
+
+.counter-item1 p {
+    font-family: century gothic;
+    color: #D7DADB;
+    font-weight: 200;
+    
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    
+}
+.counter-item2 h2 {
+    font-family: "Source Sans Pro", sans-serif;
+    color: #D7DADB;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 1px;
+}
+
+.counter-item2 p {
+    font-family: century gothic;
+    color: #D7DADB;
+    font-weight: 200;
+    
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    
+}
+
+.counter-item3 h2 {
+    font-family: "Source Sans Pro", sans-serif;
+    color: #D7DADB;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 1px;
+    
+}
+.counter-item3 p {
+    font-family: century gothic;
+    color: #D7DADB;
+    font-weight: 200;
+    
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    
+}
